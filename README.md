@@ -9,5 +9,6 @@
  - Note: same file name will be replaced.
 
 # Plugin
+
 Option referece
 image-thumbnail: https://www.npmjs.com/package/image-thumbnail
