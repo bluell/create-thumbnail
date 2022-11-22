@@ -1,0 +1,22 @@
+{
+  "name": "create-thumbnail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluell/create-thumbnail.git"
+  },
+  "author": "Yan Dong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluell/create-thumbnail/issues"
+  },
+  "homepage": "https://github.com/bluell/create-thumbnail#readme",
+  "dependencies": {
+    "image-thumbnail": "^1.0.15"
+  }
+}
